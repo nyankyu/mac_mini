@@ -1,1 +1,2 @@
 # mac_mini
+hoge
